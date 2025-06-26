@@ -1,8 +1,3 @@
-
-        // Methods: addBook, issueBook, returnBook, showAvailableBooks
-        // Properties: Array to store the available books,
-        // Array to store the issued books
-
 import java.util.Scanner;
 
 class Librarybook{
