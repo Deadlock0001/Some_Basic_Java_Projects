@@ -104,13 +104,16 @@ Bankingmanagment/
 
 ## 📸 Screenshots
 
-> _Add terminal screenshots of registration, login, and transaction screens here._
+![image](https://github.com/user-attachments/assets/06b86c00-4691-4da2-b26f-bed896161f75)
+![image](https://github.com/user-attachments/assets/f1ccda2b-ecc1-412b-9b86-b100d2127608)
+![image](https://github.com/user-attachments/assets/c649e5af-3e0a-4b13-8087-0f005fe1920d)
+
 
 ---
 
 ## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available to all
 
 ---
 
@@ -122,4 +125,4 @@ Pull requests and contributions are welcome!
 
 ## ✉️ Contact
 
-For any queries, contact: `your.email@example.com`
+For any queries, contact: bariq.imtiyaz@gmail.com
