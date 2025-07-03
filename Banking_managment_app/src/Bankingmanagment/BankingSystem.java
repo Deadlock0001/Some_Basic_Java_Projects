@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class BankingSystem {
     private static final String url = "jdbc:mysql://localhost:3306/banking_system";
     private static final String Username = "root";
-    private static final String Password = "Bariq@123";
+    private static final String Password = "Admin@123";
 
     public static void main(String[] args) {
         try {
